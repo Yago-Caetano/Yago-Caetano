@@ -24,17 +24,8 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-#### My GitHub Stats
-
-
-<div align="center">
-  <a href="https://github.com/Yago-Caetano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yago-Caetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago-Caetano&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br/>
   
-#### Technologies that I had experience
+#### Technologies I have tried
   
 <div style="display: inline_block" align="center">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
@@ -55,7 +46,7 @@ Here are some ideas to get you started:
   
 #### Social media
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWTWJ98K3MrNaR1ueRoi6Kg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/yago-caetano-65a32613b?trk=public_profile_samename-profile)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/yago-caetano/?srsltid=AfmBOoq5oTSEC8O6OoeU6ThTHb5upAJJXDR-DNDT1_pQVcKniovv-mon)
 
  
